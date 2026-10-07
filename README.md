@@ -10,8 +10,7 @@ useful insights through pivot tables, charts, and interactive slicers..
 
 ## 🎯 Objectives
 
-The analysis focuses three different objectives:
-### Objective one:
+The analysis focuses different objectives:
 
 * Analyze revenue and transaction trends over time
 * Compare sales performance across the three franchises
